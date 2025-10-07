@@ -1,0 +1,17 @@
+<html>
+  <head>
+     <title>A.R CADBURY </title>
+  </head>
+  <body>  
+      <iframe src="header .html" width="1520" height="50" name="header">Inline Frames</iframe>
+	  <table>
+	      <tr>
+		    <td><iframe src="contents .html" width="500" height="500" name="Contents">Inline Frames</iframe></td>
+				<td><iframe src="brief .html" width="500" height="500" name="Brief">Inline Frames</iframe></td>
+				<td><iframe src="product .html" width="500" height="500" name="product">Inline Frames</iframe></td>
+			</tr>
+		</table>
+		<iframe src="Footer .html" width="1520" height="80" name="Footer">Inline Frames</iframe>
+		<iframe src="form email .html" width="1520" height="150" name="form validation">Inline Frames</iframe>
+  </body>
+</html>  
